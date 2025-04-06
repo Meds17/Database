@@ -9,4 +9,9 @@ PURPOSE OF PROJECT:
 VERSION or DATE:
 HOW TO START THIS PROJECT:
 AUTHORS:
-USER INSTRUCTIONS:
+USER INSTRUCTIONS: Using command prompt(not git bash), run the following command
+
+javac -cp ".;mysql-connector-j-9.2.0.jar" UniversityDatabaseApp.java
+
+
+java -cp ".;mysql-connector-j-9.2.0.jar" UniversityDatabaseApp
